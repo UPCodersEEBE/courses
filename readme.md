@@ -39,6 +39,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Web Development](#web-development)
 - [Related](#related)
 
+## Local
+Local places offering Free courses/conferences/webinars.
+- 
+
 ## Algorithms
 
 - [Algorithmic thinking](https://www.coursera.org/learn/algorithmic-thinking-1) 💰
@@ -115,6 +119,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Advanced Deep Learning & Reinforcement Learning (2018)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) 🆓
 - [Berkeley deep reinforcement learning (2017)](http://rll.berkeley.edu/deeprlcourse/) 🆓
 - [Deep learning (2017)](http://deeplearning.cs.cmu.edu/) 🆓
+- [Practical Deep Learning for Coders FastAI (2021)] (http://course.fast.ai/) 🆓
 - [Stanford natural language processing with deep learning (2017)](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) 🆓
 - [Deep learning at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) 🆓
 - [Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&feature=youtu.be&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT) 🆓
@@ -137,6 +142,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Game development
 
 - [HTML5 game development](https://www.udacity.com/course/html5-game-development--cs255) 🆓
+
+## Go
+
+- [A Tour of Go] (https://tour.golang.org/welcome/1) 🆓
 
 ## Haskell
 
@@ -268,8 +277,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Web Development
 
-- [Cutting-edge web technologies (2015)](http://inst.eecs.berkeley.edu/%7Ecs294-101/sp15/) 🆓
+- [Cutting-edge web technologies by Berkeley(2015)](http://inst.eecs.berkeley.edu/%7Ecs294-101/sp15/) 🆓
 - [Interactive Flexbox course (2018)](https://scrimba.com/g/gflexbox) 🆓
+- [FullStackOpen by University of Helsinki(2021)](https://fullstackopen.com/en/)🆓
 
 ## Related
 
