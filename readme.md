@@ -58,6 +58,7 @@ Local places offering Free courses/conferences/webinars.
 
 ## Artificial Intelligence
 
+- Kaggle
 - [Berkeley intro to ai (2014)](http://ai.berkeley.edu/home.html) 🆓
 - [MIT artificial intelligence (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) 🆓
 - [The society of mind (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) 🆓
