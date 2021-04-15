@@ -4,8 +4,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
-- [Business](#business)
-- [Chemistry](#chemistry)
 - [Compilers](#compilers)
 - [Computer Science](#computer-science)
 - [Computer vision](#computer-vision)
@@ -63,14 +61,6 @@ Local places offering Free courses/conferences/webinars.
 - [Berkeley intro to ai (2014)](http://ai.berkeley.edu/home.html) 🆓
 - [MIT artificial intelligence (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) 🆓
 - [The society of mind (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) 🆓
-
-## Business
-
-- [Gamification](https://www.coursera.org/learn/gamification) 💰
-
-## Chemistry
-
-- [Bioinformatics specialization](https://www.coursera.org/specializations/bioinformatics) 💰
 
 ## Compilers
 
