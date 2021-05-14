@@ -134,7 +134,7 @@ Local places offering Free courses/conferences/webinars.
 
 - [HTML5 game development](https://www.udacity.com/course/html5-game-development--cs255) 🆓
 
-## Go
+## Go (Golang)
 
 - [A Tour of Go] (https://tour.golang.org/welcome/1) 🆓
 
